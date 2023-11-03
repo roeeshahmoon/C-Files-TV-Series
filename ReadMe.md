@@ -17,6 +17,7 @@ The TV Series Database Management program is designed to handle TV series inform
 verify s.txt & n.txt need to be in same directory (need to get unify)
 
 gcc TV_Series -o play
+
 ./play
 
 ### Prerequisites
