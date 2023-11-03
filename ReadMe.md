@@ -14,7 +14,7 @@ The TV Series Database Management program is designed to handle TV series inform
 - Track and display watching details for each series.
 
 ## Getting Started
-verify s.txt ₪ n.txt need to be in same directory (need to get unify)
+verify s.txt & n.txt need to be in same directory (need to get unify)
 
 gcc TV_Series -o play
 ./play
